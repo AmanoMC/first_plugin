@@ -1,0 +1,6 @@
+name: First_plugin
+version: '${project.version}'
+main: com.github.amanomc.first_plugin.First_plugin
+api-version: 1.17
+authors: [ Amanojs ]
+description: 初めてのプラグインです
